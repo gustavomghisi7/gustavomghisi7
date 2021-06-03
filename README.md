@@ -1,8 +1,8 @@
 ## Olá, sou Gustavo
 
 - 👨‍💻 Full-Stack developer na Santa Luzia.
-- 🎓 Técnico em Desenvolvimento de Sistemas pelo IFSC -> Instituto Federal de Santa Catarina.
-- 📚 Acadêmico de Ciência da Computação na Unisul -> Universidade do Sul de Santa Catarina.
+- 🎓 Técnico em Desenvolvimento de Sistemas pelo IFSC - Instituto Federal de Santa Catarina.
+- 📚 Acadêmico de Ciência da Computação na Unisul - Universidade do Sul de Santa Catarina.
 - 😎 Gostos: Counter-Strike com os amigos e experimentar comidas, cervejas, filmes, músicas e jogos.
 
 ## Habilidades/Focando em:
