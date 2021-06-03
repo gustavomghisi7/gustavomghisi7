@@ -1,4 +1,4 @@
-## Hello!! I am Gustavo
+## Hello, I am Gustavo
  <div>
   <a href="https://github.com/gustavomghisi7">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=gustavomghisi7&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
