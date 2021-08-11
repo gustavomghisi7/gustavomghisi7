@@ -1,8 +1,9 @@
 ## Olá, sou Gustavo
 
 - 👨‍💻 Full-Stack developer na Santa Luzia.
-- 🎓 Técnico em Desenvolvimento de Sistemas pelo IFSC - Instituto Federal de Santa Catarina.
+- 📚 Ignite (React-Native, TypeScript) na Rocketseat.
 - 📚 Acadêmico de Ciência da Computação na Unisul - Universidade do Sul de Santa Catarina.
+- 🎓 Técnico em Desenvolvimento de Sistemas pelo IFSC - Instituto Federal de Santa Catarina.
 - 😍 Interesses: Robótica, Inteligência Artificial, Linguagens novas e Tecnologia humanizada.
 - 😉 Gostos e Lazer: Counter-Strike e experimentar comidas, cervejas, filmes, músicas e jogos.
 
