@@ -1,6 +1,6 @@
 ## Olá, sou Gustavo
 
-- 👨‍💻 Full-Stack developer na Santa Luzia.
+- 👨‍💻 Software developer na Capgemini.
 - 📚 Acadêmico de Ciência da Computação na Unisul - Universidade do Sul de Santa Catarina.
 - 🎓 Técnico em Desenvolvimento de Sistemas pelo IFSC - Instituto Federal de Santa Catarina.
 - 😍 Interesses: Robótica, Inteligência Artificial, Linguagens novas e Tecnologia humanizada.
