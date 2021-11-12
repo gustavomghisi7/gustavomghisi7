@@ -46,12 +46,6 @@
     <a href="https://git-scm.com/">
         <img src="https://img.shields.io/badge/git-2E3440?style=for-the-badge&logo=git&logoColor=F05032"" alt=" git" />
     </a>
-    <a href="https://developer.android.com">
-        <img src="https://img.shields.io/badge/android-2E3440?style=for-the-badge&logo=android&logoColor=3DDC84" />
-    </a>
-    <a href="https://www.linux.org/">
-        <img src="https://img.shields.io/badge/linux-2E3440?style=for-the-badge&logo=linux&logoColor=FCC624" alt="linux" />
-    </a>
 <div>                                                                                                                                  
 
 ### Linguagens mais usada:
