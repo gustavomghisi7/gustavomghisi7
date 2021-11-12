@@ -48,7 +48,6 @@
     </a>
 <div>                                                                                                                                  
 
-## Linguagens mais usadas
 <div>
   <a href="https://github.com/gustavomghisi7">
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomghisi7&layout=compact&langs_count=16&theme=gotham&include_all_commits=true&count_private=true"/> 
