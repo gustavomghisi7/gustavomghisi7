@@ -10,10 +10,7 @@
     <a href="https://reactjs.org/">
         <img src="https://img.shields.io/badge/react-2E3440?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
     </a>
-    <a href="https://reactnative.dev">
-        <img src="https://img.shields.io/badge/reactnative-2E3440?style=for-the-badge&logo=reactnative&logoColor=F7DF1E" alt="react-native" />
-    </a>
-        <a href="https://nodejs.org">
+    <a href="https://nodejs.org">
         <img src="https://img.shields.io/badge/node.js-2E3440?style=for-the-badge&logo=node.js&logoColor=339933" alt="nodejs" />
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
