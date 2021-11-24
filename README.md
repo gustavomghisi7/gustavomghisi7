@@ -35,7 +35,7 @@
         <img src="https://img.shields.io/badge/sqlite-2E3440?style=for-the-badge&logo=sqlite&logoColor=003B57" alt="sqlite" />
     </a>
     <a href="https://docs.oracle.com/en/database/oracle/oracle-database/">
-        <img src="https://img.shields.io/badge/oracle-2E3440?style=for-the-badge&logo=oracle&logoColor=003B57" alt="oracle" />
+        <img src="https://img.shields.io/badge/oracle-2E3440?style=for-the-badge&logo=oracle&logoColor=F24E1E" alt="oracle" />
     </a>
     <a href="https://firebase.google.com/">
         <img src="https://img.shields.io/badge/firebase-2E3440?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="firebase" />
