@@ -5,7 +5,7 @@
 <br>
 <div align="left">
     <a href="https://angular.io">
-        <img src="https://img.shields.io/badge/angular-2E3440?style=for-the-badge&logo=angular&logoColor=F7DF1E" alt="angular" />
+        <img src="https://img.shields.io/badge/angular-2E3440?style=for-the-badge&logo=angular&logoColor=DD0031" alt="angular" />
     </a>
     <a href="https://reactjs.org/">
         <img src="https://img.shields.io/badge/react-2E3440?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
